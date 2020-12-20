@@ -1,0 +1,5 @@
+D:\HackerRank\HashRansomNote\bin\Debug\HashRansomNote.exe.config
+D:\HackerRank\HashRansomNote\bin\Debug\HashRansomNote.exe
+D:\HackerRank\HashRansomNote\obj\Debug\HashRansomNote.csprojAssemblyReference.cache
+D:\HackerRank\HashRansomNote\obj\Debug\HashRansomNote.exe
+D:\HackerRank\HashRansomNote\obj\Debug\HashRansomNote.pdb
